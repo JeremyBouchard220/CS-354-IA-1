@@ -63,7 +63,7 @@ public class Scanner {
 	
 	private void initComments(Set<String> s)
 	{
-		s.add("$");
+		s.add("&");
 	}
 
     // constructor:

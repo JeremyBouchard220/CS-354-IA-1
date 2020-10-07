@@ -149,7 +149,6 @@ public class Scanner {
 	else if (comments.contains(c))
 	{
 		pos++;
-		//past('$');
 		past(c.charAt(0));
 		next();
 	}

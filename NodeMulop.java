@@ -1,3 +1,5 @@
+//This subclass checks if a node contains a multiplication or division operator and runs the operation.
+
 public class NodeMulop extends Node {
 
     private String mulop;

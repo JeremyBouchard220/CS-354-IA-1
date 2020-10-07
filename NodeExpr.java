@@ -1,3 +1,5 @@
+//This subclass creates a node for an expression derived from the contents of other nodes.
+
 public class NodeExpr extends Node {
 
     private NodeTerm term;

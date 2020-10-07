@@ -1,3 +1,5 @@
+//This subclass evaluates if there is a token located at a position that is part of a node
+
 public class NodeFactId extends NodeFact {
 
     private String id;

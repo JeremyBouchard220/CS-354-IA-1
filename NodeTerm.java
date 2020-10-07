@@ -1,3 +1,5 @@
+//This subclass checks if there is a term and conducts operations on it as necessary
+
 public class NodeTerm extends Node {
 
     private NodeFact fact;

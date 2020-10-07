@@ -1,3 +1,5 @@
+//This subclass evaluates add add and subtract operations.
+
 public class NodeAddop extends Node {
 
     private String addop;

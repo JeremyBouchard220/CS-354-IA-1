@@ -1,3 +1,5 @@
+//This class throws an exception when an evaluation is found that does not work as intended.
+
 public class EvalException extends Exception {
 
     private int pos;

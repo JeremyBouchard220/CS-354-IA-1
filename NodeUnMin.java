@@ -1,3 +1,5 @@
+//This subclass checks for a minus sign that is used to dictate if a value is negative rather than the subtract operation
+
 public class NodeUnMin extends NodeFact
 {
     private NodeFact expr;

@@ -1,3 +1,5 @@
+//This class assigns tokens to the contents of a node
+
 public class NodeAssn extends Node {
 
     private String id;

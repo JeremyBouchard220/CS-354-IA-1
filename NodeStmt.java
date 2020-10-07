@@ -1,3 +1,5 @@
+//This subclass checks if there is a statement in a node and assigns it to a token if there is.
+
 public class NodeStmt extends Node {
 
     private NodeAssn assn;

@@ -1,3 +1,5 @@
+//This subclass evaluates if an expression is part of a node by calling NodeFact and evaluating it
+
 public class NodeFactExpr extends NodeFact {
 
     private NodeExpr expr;

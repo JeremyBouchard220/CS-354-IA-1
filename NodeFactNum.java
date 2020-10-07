@@ -1,3 +1,5 @@
+//This subclass checks if a node's contents is a number
+
 public class NodeFactNum extends NodeFact {
 
     private String num;
